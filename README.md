@@ -6,7 +6,7 @@
 
 /* Conocimientos */
 
-| Desarrollador Full Stack Junior | Python | JavaScript | Html5 | CSS | AI | Machin Learning | Neural Network | Deep Learning | Scratch | Diseño Grafico | Astronomía 🪐 | Bases de Datos Relacionales y No Relacionales |
+| Desarrollador Full Stack Junior | ![image](https://user-images.githubusercontent.com/93203724/188298860-9de496f1-46a1-48e4-bdc8-7a1d70394917.png) | JavaScript | Html5 | CSS | AI | Machin Learning | Neural Network | Deep Learning | Scratch | Diseño Grafico | Astronomía 🪐 | Bases de Datos Relacionales y No Relacionales |
 
 /* Sobre Mí */
 
