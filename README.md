@@ -17,14 +17,13 @@ Soy un apasionado por el estudio y la investigación. Amo la Astronomía, Histor
 Teacher || Profesor de Programación || ScratchTeacher || Profesor de Programación || Scratch
 Algorithmics Global
 
-![image](https://user-images.githubusercontent.com/93203724/188299132-d0a25a7c-fdab-4a26-af86-b8b45388aba8.png)
+<h3 align="left">Conéctate conmigo:</h3>
+< p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/blandskron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www. linkedin.com/in/blandskron/" height="30" width="40" /></a>
+</p>
 
-
-![image](https://user-images.githubusercontent.com/93203724/188299073-80e15e98-502d-436c-881e-582f585e871f.png) ![image](https://user-images.githubusercontent.com/93203724/188299079-09df42fa-d212-4de6-8141-5e6974ab677d.png) ![image](https://user-images.githubusercontent.com/93203724/188299148-6ee97910-b229-4c97-9a22-9c47d914f52a.png)
-
-
-![image](https://user-images.githubusercontent.com/93203724/188299089-ecd8d4d2-64ea-4673-b61c-0f91298e0b0a.png) ![image](https://user-images.githubusercontent.com/93203724/188299093-8631fc3e-db0d-45d3-ae37-11c10f53b312.png)
-
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https:// developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height= "40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/python/python-original.svg" alt="python" ancho="40" altura="40"/> </a> </p>
 
 
 
