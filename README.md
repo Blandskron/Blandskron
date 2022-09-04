@@ -22,7 +22,8 @@
 
 - 📫 Cómo contactarme **bastianlandskronfreelancer@gmail.com**
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https:// developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height= "40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/python/python-original.svg" alt="python" ancho="40" altura="40"/> </a> </p>
+![image](https://user-images.githubusercontent.com/93203724/188299493-0406d9fc-d1b8-4e34-ab18-1797ccaa7303.png)
 
+![image](https://user-images.githubusercontent.com/93203724/188299496-3d2dd235-c9b1-4c94-8e37-4d40ce0bc7d2.png) ![image](https://user-images.githubusercontent.com/93203724/188299504-f38efe6b-6977-4ca0-baf4-9edf5b8cac3d.png) ![image](https://user-images.githubusercontent.com/93203724/188299515-ff2ee591-8194-45a0-a9f7-a6f8018933eb.png)
 
 
