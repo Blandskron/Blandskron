@@ -1,4 +1,4 @@
-### Bastian Landskron
+### Bastian Landskron :stuck_out_tongue_closed_eyes:
 | Desarrollador Full Stack Junior | Python | JavaScript | Html5 | CSS | AI | Machin Learning | Neural Network | Deep Learning | Scratch | Diseño Grafico | Astronomía | Bases de Datos Relacionales y No Relacionales |
 
 Acerca de
