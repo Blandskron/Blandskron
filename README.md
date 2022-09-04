@@ -20,7 +20,8 @@ Algorithmics Global
 ![image](https://user-images.githubusercontent.com/93203724/188299132-d0a25a7c-fdab-4a26-af86-b8b45388aba8.png)
 
 
-![image](https://user-images.githubusercontent.com/93203724/188299073-80e15e98-502d-436c-881e-582f585e871f.png) ![image](https://user-images.githubusercontent.com/93203724/188299079-09df42fa-d212-4de6-8141-5e6974ab677d.png)
+![image](https://user-images.githubusercontent.com/93203724/188299073-80e15e98-502d-436c-881e-582f585e871f.png) ![image](https://user-images.githubusercontent.com/93203724/188299079-09df42fa-d212-4de6-8141-5e6974ab677d.png) ![image](https://user-images.githubusercontent.com/93203724/188299148-6ee97910-b229-4c97-9a22-9c47d914f52a.png)
+
 
 ![image](https://user-images.githubusercontent.com/93203724/188299089-ecd8d4d2-64ea-4673-b61c-0f91298e0b0a.png) ![image](https://user-images.githubusercontent.com/93203724/188299093-8631fc3e-db0d-45d3-ae37-11c10f53b312.png)
 
