@@ -18,7 +18,7 @@
 
 - 👯 Colaboro con Python Chile https://pythonchile.cl/
 
-- 👨‍💻 Todos mis proyectos están disponibles en https://findyourweb.cl/
+- 👨‍💻 Todos mis proyectos están disponibles en https://blandskron.com/
 
 - 📫 Cómo contactarme **bastianlandskronfreelancer@gmail.com**
 
