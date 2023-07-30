@@ -1,26 +1,27 @@
 🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 
-:blush: <h1 align="center">Hola 👋, soy Bastian Landskron</h1> :stuck_out_tongue_closed_eyes: 
+:blush: <h1 align="center">Hello 👋, I'm Bastian Landskron</h1> :stuck_out_tongue_closed_eyes: 
 
 🌏
 
-<h3 align="center">Soy un apasionado por el estudio y la investigación. Amo la Astronomía, Historia, Ciencias & Lenguas. Me encanta aprender diferentes cosas y especialmente me gusta la investigación en el ámbito de la IA, Machine Learning, Neural Network, Deep Learning & Data Science. Mi lenguaje de programación favorito también es Python tengo conocimientos sobre JS, Html5 & Css.</h3>
+<h3 align="center">I am passionate about study and research. I love Astronomy, History, Sciences & Languages. I enjoy learning different things and particularly, I am fond of research in the field of AI, Machine Learning, Neural Networks, Deep Learning & Data Science. My favorite programming language is Python, and I also have knowledge of JS, Html5 & Css.</h3>
 
-/* Conocimientos */
+/* Knowledge */
 
-| Desarrollador Full Stack Junior | Python | JavaScript | Html5 | CSS | AI | Machin Learning | Neural Network | Deep Learning | Scratch | Diseño Grafico | Astronomía 🪐 | Bases de Datos Relacionales y No Relacionales |
+| Junior Full Stack Developer | Python | JavaScript | Html5 | CSS | AI | Machine Learning | Neural Networks | Deep Learning | Scratch | Graphic Design | Astronomy 🪐 | Relational and Non-Relational Databases |
 
-- 🔭 Actualmente estoy trabajando en Algorithmics Global https://www.algorithmicsantiago.cl/
+🔭 Currently, I am working at Algorithmics Global https://www.algorithmicsantiago.cl/
 
-- 🌱 Estoy estudiando en https://www.aluracursos.com/
+🌱 I am studying at https://www.platzi.com/
 
-- 🌱 Estudie en https://www.nextu.com/
+🌱 I studied at https://www.aluracursos.com/
 
-- 👯 Colaboro con Python Chile https://pythonchile.cl/
+🌱 I studied at https://www.nextu.com/
 
-- 👨‍💻 Todos mis proyectos están disponibles en https://blandskron.com/
+👨‍💻 You can find me at https://blandskron.com/
 
-- 📫 Cómo contactarme **bastianlandskronfreelancer@gmail.com**
+📫 How to contact me: bastianlandskronfreelancer@gmail.com
+
 
 ![image](https://user-images.githubusercontent.com/93203724/188299493-0406d9fc-d1b8-4e34-ab18-1797ccaa7303.png)
 
