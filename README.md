@@ -1,9 +1,8 @@
 🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 
-:blush: <h1 align="center">Hello 👋, I'm Bastian Landskron</h1> :stuck_out_tongue_closed_eyes: 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF00&width=435&lines=Full-Stack+Developer" alt="Typing SVG" /></a>
+:blush: <h1 align="center">Hi 👋, I'm Bastian Landskron</h1> :stuck_out_tongue_closed_eyes: 
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF00&width=435&lines=Full-Stack+Developer" alt="Typing SVG" /></a>
 
-🌏
 
 <h3 align="center">I am passionate about study and research. I love Astronomy, History, Sciences & Languages. I enjoy learning different things and particularly, I am fond of research in the field of AI, Machine Learning, Neural Networks, Deep Learning & Data Science. My favorite programming language is Python, and I also have knowledge of JS, Html5 & Css.</h3>
 
