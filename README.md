@@ -1,6 +1,7 @@
 🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 
 :blush: <h1 align="center">Hello 👋, I'm Bastian Landskron</h1> :stuck_out_tongue_closed_eyes: 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF00&width=435&lines=Full-Stack+Developer" alt="Typing SVG" /></a>
 
 🌏
 
