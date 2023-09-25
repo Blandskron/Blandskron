@@ -7,7 +7,7 @@
 
 <h3 align="center">I am passionate about study and research. I love Astronomy, History, Sciences & Languages. I enjoy learning different things and particularly, I am fond of research in the field of AI, Machine Learning, Neural Networks, Deep Learning & Data Science. My favorite programming language is Python, and I also have knowledge of JS, Html5 & Css.</h3>
 
-## HardSkills
+<h2 align="center">HardSkills</h2>
 
 | Programming Languages           | Frameworks and Libraries        | Data Formats                   | Platforms and Tools            | Graphic Design Software        | Interests                      |
 | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
