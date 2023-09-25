@@ -1,4 +1,4 @@
-🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘
+<div align="center">🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘</div>
 
 <h1 align="center">Hi 👋, I'm Bastian Landskron</h1>
 <div align="center"><a href="https://git.io/typing-svg" target="_blank" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF00&width=435&lines=Full-Stack+Developer" alt="Typing SVG" /></a></div>
@@ -16,10 +16,3 @@
 | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=white&color=%23F7DF1E) | ![Django Badge](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=%23092E20&labelColor=white&color=%23092E20) |  |  | ![Canva Badge](https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=canva&logoColor=%2300C4CC&labelColor=white&color=%2300C4CC) | ![Astronomy Badge](https://img.shields.io/badge/Astronomy-%23E03C31?style=flat&logo=nasa&logoColor=%23E03C31&labelColor=white&color=%23E03C31) |
 | ![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=%23E34F26&labelColor=white&color=%23E34F26) | ![Flask Badge](https://img.shields.io/badge/Flask-%23000000?style=flat&logo=flask&logoColor=%23000000&labelColor=white&color=%23000000) |  |  | ![Figma Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=%23F24E1E&labelColor=white&color=%23F24E1E) | ![Philosophy Badge](https://img.shields.io/badge/Philosophy-%2318A303?style=flat&logo=libreoffice&logoColor=%2318A303&labelColor=white&color=%2318A303) |
 | ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=%234479A1&labelColor=white&color=%234479A1) |  |  |  | ![Inkscape Badge](https://img.shields.io/badge/Inkscape-%23000000?style=flat&logo=inkscape&logoColor=%23000000&labelColor=white&color=%23000000) |  |
-
-
-
-
-
-
-![image](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/gsfc_20171208_archive_e000084_orig.jpg)
