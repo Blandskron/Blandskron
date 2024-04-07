@@ -1,7 +1,8 @@
 <div align="center">🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘</div>
 
 <h1 align="center">Bastian Landskron</h1>
-<div align="center"><a href="https://git.io/typing-svg" target="_blank" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF00&width=435&lines=Full-Stack+Developer" alt="Typing SVG" /></a></div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F400&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+Django)](https://git.io/typing-svg)
 
 <h3 align="center">Passionate about study and research, with a focus on Astronomy, History, Sciences & Languages. Particularly interested in AI, Machine Learning, Neural Networks, Deep Learning & Data Science. Proficient in Python, Django, and related technologies.</h3>
 
