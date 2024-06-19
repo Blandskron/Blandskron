@@ -59,10 +59,5 @@ Desarrollo e implementación de un curso completo de Full Stack Python, con una 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=blandskron&style=flat-square&color=blue)
 
-## Repositorios Destacados
-
-[![portafolioDjangoBlandskron](https://github-readme-stats.vercel.app/api/pin/?username=blandskron&repo=repo-name&theme=radical)](https://github.com/blandskron/repo-name)
-[![BackendFASTAPIFrontendDJANGO](https://github-readme-stats.vercel.app/api/pin/?username=blandskron&repo=repo-name&theme=radical)](https://github.com/blandskron/repo-name)
-
 ## Contacto
 Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme.
