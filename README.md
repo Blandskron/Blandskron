@@ -61,8 +61,8 @@ Desarrollo e implementación de un curso completo de Full Stack Python, con una 
 
 ## Repositorios Destacados
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=blandskron&repo=repo-name&theme=radical)](https://github.com/blandskron/portafolioDjangoBlandskron)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=blandskron&repo=repo-name&theme=radical)](https://github.com/blandskron/BackendFASTAPIFrontendDJANGO)
+[![portafolioDjangoBlandskron](https://github-readme-stats.vercel.app/api/pin/?username=blandskron&repo=repo-name&theme=radical)](https://github.com/blandskron/repo-name)
+[![BackendFASTAPIFrontendDJANGO](https://github-readme-stats.vercel.app/api/pin/?username=blandskron&repo=repo-name&theme=radical)](https://github.com/blandskron/repo-name)
 
 ## Contacto
 Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme.
