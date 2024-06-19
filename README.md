@@ -47,5 +47,20 @@ Desarrollo e implementación de un curso completo de Full Stack Python, con una 
 ## GitHub Stats
 ![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=radical)
 
+## GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=blandskron&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=radical)
+
+## Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blandskron&theme=radical)
+
+## Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=blandskron&theme=react-dark)
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=blandskron&style=flat-square&color=blue)
+
 ## Contacto
 Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme.
