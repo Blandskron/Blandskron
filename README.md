@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de un README atractivo para tu GitHub, incluyendo logos de las tecnologías que conoces y otros elementos importantes.
-
----
-
 # ¡Hola, soy Bastian Landskron! 👋
 
 ## Sobre Mí
@@ -53,7 +49,3 @@ Desarrollo e implementación de un curso completo de Full Stack Python, con una 
 
 ## Contacto
 Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme.
-
----
-
-Espero que este README sea de tu agrado y refleje adecuadamente tu experiencia y habilidades. Si necesitas algún cambio o adición, házmelo saber.
