@@ -56,19 +56,13 @@ Desarrollo e implementación de un curso completo de Full Stack Python, con una 
 ## Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blandskron&theme=radical)
 
-## Activity Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=blandskron&theme=react-dark)
-
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=blandskron&style=flat-square&color=blue)
 
-## Recent Contributions
-[![Bastian's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=blandskron&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Repositorios Destacados
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=blandskron&repo=repo-name&theme=radical)](https://github.com/blandskron/repo-name)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=blandskron&repo=repo-name&theme=radical)](https://github.com/blandskron/repo-name)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=blandskron&repo=repo-name&theme=radical)](https://github.com/blandskron/portafolioDjangoBlandskron)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=blandskron&repo=repo-name&theme=radical)](https://github.com/blandskron/BackendFASTAPIFrontendDJANGO)
 
 ## Contacto
 Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme.
