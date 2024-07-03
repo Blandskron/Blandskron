@@ -4,7 +4,7 @@
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack apasionado por la tecnología y la investigación. Me encanta aprender y explorar nuevas áreas, especialmente en Inteligencia Artificial, Machine Learning, Deep Learning y Data Science.
 
 - 🌍 **Ubicación:** Chile
-- 💼 **Actualmente trabajando como:** Facilitador de Desarrollo de Aplicaciones Full Stack Python en Sustantiva SpA
+- 💼 **Actualmente trabajando como:** Facilitador de Desarrollo de Aplicaciones Full Stack Python
 - 🌐 **Sitio web:** [blandskron.com](https://blandskron.com)
 - 📫 **Correo:** bastianlandskronfreelancer@gmail.com
 
