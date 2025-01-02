@@ -79,5 +79,3 @@ Desarrollo e implementación de un curso completo de Full Stack Python, con una 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=blandskron&style=flat-square&color=blue)
 
-## Contacto
-Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme.
