@@ -1,4 +1,4 @@
-# ¡Hola, soy Bastián Lautström! 👋
+# ¡Hola, soy Bastián Landskron! 👋
 
 ## 🌟 Sobre Mí
 ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador **Full Stack** y entusiasta de la **Inteligencia Artificial**, con una misión clara en 2025: transformar ideas innovadoras en soluciones tecnológicas de vanguardia. Trabajo constantemente en proyectos que combinan **Machine Learning**, **Deep Learning**, y **Data Science** para resolver desafíos del mundo real. 🚀
