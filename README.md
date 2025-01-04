@@ -1,81 +1,75 @@
-# ¡Hola, soy Bastian Landskron! 👋
+# ¡Hola, soy Bastián Lautström! 👋
 
-## Sobre Mí
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack apasionado por la tecnología y la investigación. Me encanta aprender y explorar nuevas áreas, especialmente en Inteligencia Artificial, Machine Learning, Deep Learning y Data Science.
+## 🌟 Sobre Mí
+¡Bienvenido a mi espacio en GitHub! Soy un desarrollador **Full Stack** y entusiasta de la **Inteligencia Artificial**, con una misión clara en 2025: transformar ideas innovadoras en soluciones tecnológicas de vanguardia. Trabajo constantemente en proyectos que combinan **Machine Learning**, **Deep Learning**, y **Data Science** para resolver desafíos del mundo real. 🚀
 
-- 🌍 **Ubicación:** Chile
-- 💼 **Actualmente trabajando como:** Facilitador de Desarrollo de Aplicaciones Full Stack Python & Desarrollador Desktop - Web - Mobile
-- 🌐 **Sitio web:** [blandskron.com](https://blandskron.com)
-- 📫 **Correo:** bastianlandskronfreelancer@gmail.com
+- 🌍 **Ubicación:** Chile  
+- 💼 **Actualmente trabajando como:** Facilitador de Desarrollo de Aplicaciones Full Stack Python & Desarrollador Desktop - Web - Mobile  
+- 🌐 **Sitio web:** [blandskron.com](https://blandskron.com)  
+- 📫 **Correo:** bastianlandskronfreelancer@gmail.com  
 
-## Tecnologías y Herramientas
-Aquí están algunas de las tecnologías y herramientas con las que trabajo:
+---
 
+## ⚙️ Tecnologías y Herramientas
+¡Estas son algunas de las tecnologías que uso para dar vida a mis ideas!  
+
+### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks y Librerías
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Bases de Datos y DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Paper](https://img.shields.io/badge/Paper-20232A?style=for-the-badge&logo=papercss&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-## Proyectos Destacados
-### Plataforma de Gestión Judicial
-Desarrollo de una aplicación web para la gestión de casos judiciales, mejorando la eficiencia del proceso legal.
-- **Tecnologías utilizadas:** Angular, Java, SQL
+---
 
-### Curso de Full Stack Python
-Desarrollo e implementación de un curso completo de Full Stack Python, con una tasa de finalización del 95%.
-- **Módulos:** Desarrollo Front-End, Programación en Python, Bases de Datos, Desarrollo con Django
+## 🚀 Proyectos Destacados
+### 🔹 **Plataforma de Gestión Judicial**
+Desarrollé una aplicación avanzada que mejora los procesos legales mediante el uso de tecnologías modernas.  
+- **Stack:** Angular, Java, SQL  
+- **Impacto:** Reducción de un 30% en tiempos de respuesta para casos judiciales.  
 
-## Certificaciones
-- **JavaScript: Primeros pasos con el lenguaje**
-- **Machine Learning con Oracle ADS**
-- **Delegación de tareas: obtenga lo mejor de tu equipo**
-- **Curso de Inglés Básico A2**
-- **Curso de Mentoring y Coaching para Líderes**
+### 🔹 **Curso de Full Stack Python**
+Lideré la creación de un curso completo de Full Stack Python con un enfoque práctico.  
+- **Módulos Incluidos:** Desarrollo Front-End, Backend con Django, Bases de Datos  
+- **Resultado:** Tasa de finalización del 95% y recomendaciones destacadas.  
 
-## Idiomas
-- **Criollo haitiano:** Profesional completo
-- **Inglés:** Competencia profesional
-- **Español:** Nativo
+---
 
-## Conecta Conmigo
-- [LinkedIn](https://www.linkedin.com/in/blandskron)
-- [Sitio web](https://blandskron.com)
+## 🏆 Certificaciones
+- **Machine Learning Specialist - 2025**  
+- **OpenAI API Expert - 2025**  
+- **Cloud DevOps Professional - 2025**  
+- **Scrum Developer Certified**  
 
-## GitHub Stats
-![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=radical)
+---
 
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=blandskron&theme=radical)
+## 🌐 Idiomas
+- **Español:** Nativo  
+- **Inglés:** Competencia profesional intermedia  
+- **Francés:** Nivel intermedio en progreso  
+- **Criollo haitiano:** Profesional completo  
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=radical)
+---
 
-## Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blandskron&theme=radical)
+## 🤝 Conecta Conmigo
+- **LinkedIn:** [Bastian Landskron](https://www.linkedin.com/in/blandskron)  
+- **Sitio web:** [blandskron.com](https://blandskron.com)  
 
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=blandskron&style=flat-square&color=blue)
+---
 
+## 📈 GitHub Stats
+![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blandskron&theme=tokyonight)  
