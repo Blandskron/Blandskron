@@ -48,10 +48,10 @@ Lideré la creación de un curso completo de Full Stack Python con un enfoque pr
 ---
 
 ## 🏆 Certificaciones
-- **Machine Learning Specialist - 2025**  
-- **OpenAI API Expert - 2025**  
-- **Cloud DevOps Professional - 2025**  
-- **Scrum Developer Certified**  
+- **GENERATIVE AI PROFESSIONAL CERTIFICATION GAIPC™**  
+- **SCRUM FOUNDATION PROFESSIONAL CERTIFICATION SFPC™**  
+- **PROMPT ENGINEERING FOUNDATION PROFESSIONAL CERTIFIC™**  
+- **SCRUM DEVELOPER PROFESSIONAL CERTIFICATION SDPC**  
 
 ---
 
