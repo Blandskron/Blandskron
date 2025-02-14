@@ -73,4 +73,4 @@ Lideré la creación de un curso completo de Full Stack Python con un enfoque pr
 ## 📈 GitHub Stats
 ![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blandskron&theme=tokyonight)  
+
