@@ -1,142 +1,191 @@
-# 🚀 Bastián Landskron
+<div align="center">
 
-### *Founder · Software Architect · AI Builder · Tech Educator*
+# ⚡ BASTIÁN LANDSKRON
 
-> **No construyo proyectos.
-> Construyo sistemas que sobreviven al tiempo.**
+### Founder & CEO @ **Blandskron SpA**
+
+#### Software Architect · AI Builder · UX/UI Designer · Tech Educator
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=600&color=7AA2F7&center=true&vCenter=true&width=640&lines=Construyo+sistemas%2C+no+solo+apps.;Tecnolog%C3%ADa%2C+dise%C3%B1o+y+estrategia.;Ingenier%C3%ADa+pensada+para+2030." />
+
+<br/><br/>
+
+> **Founder mindset.
+> Engineering rigor.
+> Design-driven thinking.**
+
+</div>
 
 ---
 
-## 🧭 Quién soy (en corto)
+## 🧭 Identidad Profesional
 
-```text
-Arquitecto de software • Full Stack Engineer • Educador tecnológico
-Especialista en microservicios, IA aplicada y sistemas escalables
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Quién soy
+
+Soy **Bastián Landskron**, **fundador de Blandskron SpA**, arquitecto de software, desarrollador Full Stack y **diseñador UX/UI**, con foco en **IA aplicada, plataformas educativas y sistemas escalables**.
+
+Diseño productos donde **ingeniería, diseño y negocio** convergen.
+
+</td>
+<td width="50%">
+
+### 🚀 Qué construyo
+
+* Sistemas backend robustos
+* Arquitecturas desacopladas
+* Productos digitales con UX real
+* Plataformas educativas + IA
+* Microservicios listos para escalar
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Stack Integral (Tech + Design)
+
+### 👨‍💻 Lenguajes
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+</div>
+
+---
+
+### 🧩 Frameworks & Arquitectura
+
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=spring-boot)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat\&logo=react)
+
+</div>
+
+🧱 **Principios usados en producción**
+
+```
+Hexagonal Architecture
+Clean Boundaries
+JWT + RSA Security
+Microservices
+Domain-driven Thinking
 ```
 
-Soy **Bastián Landskron**, desarrollador Full Stack, arquitecto de microservicios, educador en tecnologías emergentes y fundador en construcción constante.
+---
 
-Trabajo donde **ingeniería, negocio, educación e inteligencia artificial** se intersectan.
-Diseño sistemas **robustos, desacoplados y mantenibles**, pensados para crecer sin colapsar.
+### 🎨 Diseño & Experiencia de Usuario
 
-📍 Chile · 🌎 LATAM / Remoto
-🎯 Enfoque 2026: IA aplicada + plataformas educativas + arquitectura de largo plazo
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge\&logo=adobe-photoshop)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge\&logo=adobe-illustrator)
+
+</div>
+
+✅ UX Research
+✅ UI Systems
+✅ Component Design
+✅ Prototipado de baja y alta fidelidad
+✅ Diseño orientado a negocio y escalabilidad
 
 ---
 
-## 🧠 Mi principio rector
+### ☁️ Infraestructura & Datos
 
-> *Un sistema bien diseñado
-> no depende de héroes,
-> depende de estructura.*
+<div align="center">
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat\&logo=elasticsearch)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoft-azure)
 
-## 🧰 Stack Tecnológico (real, usado en producción)
-
-### Lenguajes
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-### Backend & Arquitectura
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square\&logo=spring-boot\&logoColor=white)
-
-* Arquitectura Hexagonal
-* Microservicios desacoplados
-* JWT + RSA / OAuth-like flows
-* Event-driven & async patterns
-
-### Frontend & Multiplataforma
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-
-### Infra & Datos
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square\&logo=elasticsearch\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoft-azure\&logoColor=white)
+</div>
 
 ---
 
-## 🏗️ Lo que construyo
+## 🧠 Proyectos Clave
 
 <details>
-<summary><strong>🧠 Microservicio de Autenticación Distribuida</strong></summary>
+<summary><strong>🔐 Identity & Auth Platform</strong></summary>
 
-* JWT con RSA (clave pública compartida)
-* Control de sesión centralizado
-* Revocación activa
-* Multi-cliente / multi-servicio
-* Arquitectura hexagonal + clean boundaries
-
-**Stack:** FastAPI · PostgreSQL · Docker · Security First
+* Autenticación JWT con RSA
+* Validación por clave pública
+* Control central de sesión
+* Multi-tenant real
 
 </details>
 
 <details>
-<summary><strong>📂 Plataforma Documental Escalable</strong></summary>
+<summary><strong>📦 Plataforma Documental Cloud</strong></summary>
 
 * Streaming de archivos
 * Azure Blob Storage
 * Progreso en tiempo real (SSE)
-* Control de cancelación
-* Persistencia desacoplada
-
-**Stack:** Spring Boot · Azure SDK · PostgreSQL · SSE · JWT
+* Seguridad por diseño
 
 </details>
 
 <details>
-<summary><strong>🎓 Formación Full Stack Python (207h)</strong></summary>
+<summary><strong>🎓 Formación Full Stack & UX</strong></summary>
 
-* Diseño curricular completo
-* Python · Django · React · PostgreSQL
-* Enfoque en portafolio real
-* Arquitectura, no solo tutoriales
+* Diseño curricular
+* Arquitectura desde el día 1
+* Portafolio profesional
+* Enfoque empleabilidad real
 
 </details>
 
 ---
 
-## 🧪 IA aplicada (no humo)
+## 🧪 IA como parte del sistema
 
-Trabajo IA como **componente del sistema**, no como gimmick:
+> *La IA no reemplaza la arquitectura.
+> La arquitectura define cómo la IA agrega valor.*
 
-* APIs de LLM integradas a arquitecturas existentes
-* Agentes contextualizados
+* LLMs integrados como servicios
+* Agentes con contexto
 * Persistencia semántica mínima
-* IA como copiloto, no como dependencia total
+* IA utilizable, explicable y mantenible
 
 ---
 
-## 🧱 Cómo pienso la ingeniería
+## 📐 Cómo diseño productos
 
 ```
-Escalabilidad > Moda
-Claridad > Complejidad innecesaria
-Arquitectura > Framework
-Documentación > Tribal knowledge
+UX ≠ Pantallas bonitas
+UX = Claridad + Decisión + Confianza
 ```
+
+⚫ Investigación real
+⚫ Sistemas de diseño
+⚫ Ingeniería + Diseño alineados
+⚫ Pensado para crecer
 
 ---
 
 ## 🏆 Certificaciones
 
-* 🧠 Generative AI Professional (GAIPC™)
-* ✅ Scrum Foundation (SFPC™)
-* 👨‍💻 Scrum Developer (SDPC)
-* 📋 Scrum Master (SMPC)
-* ⚙️ Prompt Engineering Foundation
+✅ Generative AI Professional
+✅ Scrum Foundation / Developer / Master
+✅ Prompt Engineering
 
 ---
 
@@ -151,24 +200,30 @@ Documentación > Tribal knowledge
 
 ---
 
-## 📈 GitHub en contexto
+## 📊 Actividad Técnica
 
-> **Las métricas importan menos que la coherencia del sistema.**
+<div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=blandskron\&show_icons=true\&theme=tokyonight)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron\&layout=compact\&theme=tokyonight)
+
+</div>
 
 ---
 
 ## 🤝 Conecta
 
-* 🌐 [https://blandskron.com](https://blandskron.com)
-* 💼 [https://linkedin.com/in/blandskron](https://linkedin.com/in/blandskron)
-* 📩 [bastianlandskronfreelancer@gmail.com](mailto:bastianlandskronfreelancer@gmail.com)
+🌐 [https://blandskron.com](https://blandskron.com)
+💼 [https://linkedin.com/in/blandskron](https://linkedin.com/in/blandskron)
+📩 [bastianlandskronfreelancer@gmail.com](mailto:bastianlandskronfreelancer@gmail.com)
 
 ---
 
-> *2026 no será sobre saber usar herramientas,
-> será sobre saber diseñar sistemas que importen.*
+<div align="center">
 
----
+### 🚀 *Blandskron SpA — Ingeniería, Diseño e IA para el futuro.*
+
+</div>
+
+Si quieres, el siguiente paso es **hacerlo aún más cinematográfico** (timeline + visión).
+¿Vamos por esa versión? 👑
