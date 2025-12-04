@@ -221,10 +221,19 @@ Tecnología al servicio del aprendizaje real
 
 ## 📊 Actividad
 
+## 📊 Actividad
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=tokyonight"
+    alt="Bastián's GitHub stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
 
 </div>
 
