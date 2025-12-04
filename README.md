@@ -1,47 +1,47 @@
 <div align="center">
 
-# ⚡ BASTIÁN LANDSKRON
+<!-- HERO -->
 
-### Founder & CEO @ **Blandskron SpA**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2933,100:111827&height=190&section=header&text=BASTIÁN%20LANDSKRON&fontSize=38&fontColor=E5E7EB&animation=fadeIn" />
+
+### Founder & CEO — **Blandskron SpA**
 
 #### Software Architect · AI Builder · UX/UI Designer · Tech Educator
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=600&color=7AA2F7&center=true&vCenter=true&width=640&lines=Construyo+sistemas%2C+no+solo+apps.;Tecnolog%C3%ADa%2C+dise%C3%B1o+y+estrategia.;Ingenier%C3%ADa+pensada+para+2030." />
-
-<br/><br/>
-
-> **Founder mindset.
-> Engineering rigor.
-> Design-driven thinking.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=600&color=7AA2F7&center=true&vCenter=true&width=760&lines=No+construyo+apps.;Dise%C3%B1o+sistemas+que+escalan.;Ingenier%C3%ADa+%2B+Dise%C3%B1o+%2B+IA.;Productos+listos+para+2030." />
 
 </div>
 
 ---
 
-## 🧭 Identidad Profesional
+## 🧭 Manifiesto
+
+> **La tecnología sin diseño no escala.
+> El diseño sin ingeniería no sobrevive.
+> La IA sin arquitectura es solo ruido.**
+
+---
+
+## 🧠 Quién soy
 
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
-### 🧠 Quién soy
+Soy **Bastián Landskron**, fundador de **Blandskron SpA**, arquitecto de software, diseñador UX/UI y educador tecnológico.
 
-Soy **Bastián Landskron**, **fundador de Blandskron SpA**, arquitecto de software, desarrollador Full Stack y **diseñador UX/UI**, con foco en **IA aplicada, plataformas educativas y sistemas escalables**.
-
-Diseño productos donde **ingeniería, diseño y negocio** convergen.
+Diseño **productos digitales, plataformas educativas y arquitecturas de IA** donde negocio, experiencia de usuario y sistemas robustos trabajan juntos.
 
 </td>
-<td width="50%">
+<td width="55%">
 
-### 🚀 Qué construyo
+### Lo que hago hoy
 
-* Sistemas backend robustos
-* Arquitecturas desacopladas
-* Productos digitales con UX real
-* Plataformas educativas + IA
-* Microservicios listos para escalar
+* Diseño plataformas escalables
+* Construyo microservicios seguros
+* Integro IA como parte del sistema
+* Diseño experiencia y producto
+* Formo desarrolladores con mentalidad de arquitectura
 
 </td>
 </tr>
@@ -49,27 +49,66 @@ Diseño productos donde **ingeniería, diseño y negocio** convergen.
 
 ---
 
-## 🏗️ Stack Integral (Tech + Design)
+## ⏱️ Timeline Profesional
 
-### 👨‍💻 Lenguajes
+```
+2020 ─── Desarrollo Full Stack & UX freelance
+2022 ─── Arquitecturas backend & microservicios
+2023 ─── Docencia profesional (Python, Full Stack)
+2024 ─── IA aplicada en sistemas reales
+2025 ─── Fundador de Blandskron SpA
+2026 ─── Plataformas educativas + IA escalable
+```
+
+---
+
+## 🏗️ Arquitectura Mental (ASCII)
+
+```
+┌────────────────────────────┐
+│        Producto            │
+│  UX · UI · Diseño Visual   │
+└─────────────┬──────────────┘
+              │
+┌─────────────▼──────────────┐
+│     Aplicación / Frontend  │
+│  Angular · React · Mobile  │
+└─────────────┬──────────────┘
+              │
+┌─────────────▼──────────────┐
+│     Servicios / Backend    │
+│  FastAPI · Django · Java   │
+└─────────────┬──────────────┘
+              │
+┌─────────────▼──────────────┐
+│     Infraestructura        │
+│ DB · Cache · Search · IA   │
+└────────────────────────────┘
+```
+
+---
+
+## 🧰 Stack Integral
+
+### Lenguajes
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 
 </div>
 
 ---
 
-### 🧩 Frameworks & Arquitectura
+### Frameworks & Arquitectura
 
 <div align="center">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=spring-boot)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react)
@@ -77,135 +116,115 @@ Diseño productos donde **ingeniería, diseño y negocio** convergen.
 
 </div>
 
-🧱 **Principios usados en producción**
-
 ```
 Hexagonal Architecture
-Clean Boundaries
-JWT + RSA Security
+Clean Architecture
 Microservices
-Domain-driven Thinking
+JWT + RSA Security
+Multi-tenant Systems
 ```
 
 ---
 
-### 🎨 Diseño & Experiencia de Usuario
+### 🎨 Diseño & UX/UI
 
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge\&logo=adobe-photoshop)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge\&logo=adobe-illustrator)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge\&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge\&logo=adobe-illustrator)
 
 </div>
 
 ✅ UX Research
-✅ UI Systems
-✅ Component Design
-✅ Prototipado de baja y alta fidelidad
-✅ Diseño orientado a negocio y escalabilidad
+✅ Sistemas de diseño
+✅ Prototipado low / high fidelity
+✅ Producto digital orientado a negocio
 
 ---
 
-### ☁️ Infraestructura & Datos
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat\&logo=elasticsearch)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoft-azure)
-
-</div>
-
----
-
-## 🧠 Proyectos Clave
+## 🧪 IA Integrada (no decorativa)
 
 <details>
-<summary><strong>🔐 Identity & Auth Platform</strong></summary>
+<summary><strong>Cómo uso IA</strong></summary>
 
-* Autenticación JWT con RSA
-* Validación por clave pública
-* Control central de sesión
-* Multi-tenant real
+* LLMs como servicios desacoplados
+* Agentes con contexto persistente
+* IA como copiloto del sistema
+* Decisiones trazables y mantenibles
+
+</details>
+
+---
+
+## 📦 Proyectos Representativos
+
+<details>
+<summary>🔐 Plataforma de Autenticación Distribuida</summary>
+
+* JWT + RSA
+* Control centralizado de sesión
+* Arquitectura hexagonal
+* Multi-servicio
 
 </details>
 
 <details>
-<summary><strong>📦 Plataforma Documental Cloud</strong></summary>
+<summary>📂 Plataforma Documental Cloud</summary>
 
-* Streaming de archivos
+* Streaming
 * Azure Blob Storage
 * Progreso en tiempo real (SSE)
-* Seguridad por diseño
 
 </details>
 
 <details>
-<summary><strong>🎓 Formación Full Stack & UX</strong></summary>
+<summary>🎓 Programas Educativos Full Stack & UX</summary>
 
 * Diseño curricular
-* Arquitectura desde el día 1
+* Arquitectura real
 * Portafolio profesional
-* Enfoque empleabilidad real
 
 </details>
 
 ---
 
-## 🧪 IA como parte del sistema
-
-> *La IA no reemplaza la arquitectura.
-> La arquitectura define cómo la IA agrega valor.*
-
-* LLMs integrados como servicios
-* Agentes con contexto
-* Persistencia semántica mínima
-* IA utilizable, explicable y mantenible
-
----
-
-## 📐 Cómo diseño productos
+## 🧬 Visión 2030
 
 ```
-UX ≠ Pantallas bonitas
-UX = Claridad + Decisión + Confianza
+Plataformas educativas inteligentes
+IA personalizada por contexto
+Sistemas éticos, mantenibles y humanos
+Tecnología al servicio del aprendizaje real
 ```
-
-⚫ Investigación real
-⚫ Sistemas de diseño
-⚫ Ingeniería + Diseño alineados
-⚫ Pensado para crecer
 
 ---
 
 ## 🏆 Certificaciones
 
 ✅ Generative AI Professional
-✅ Scrum Foundation / Developer / Master
+✅ Scrum Foundation · Developer · Master
 ✅ Prompt Engineering
 
 ---
 
 ## 🌍 Idiomas
 
-| Idioma                | Nivel       |
-| --------------------- | ----------- |
-| 🇪🇸 Español          | Nativo      |
-| 🇺🇸 Inglés           | Profesional |
-| 🇫🇷 Francés          | Intermedio  |
-| 🇭🇹 Criollo Haitiano | Profesional |
+| Idioma           | Nivel       |
+| ---------------- | ----------- |
+| Español          | Nativo      |
+| Inglés           | Profesional |
+| Francés          | Intermedio  |
+| Criollo Haitiano | Profesional |
 
 ---
 
-## 📊 Actividad Técnica
+## 📊 Actividad
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=blandskron\&show_icons=true\&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -221,9 +240,10 @@ UX = Claridad + Decisión + Confianza
 
 <div align="center">
 
-### 🚀 *Blandskron SpA — Ingeniería, Diseño e IA para el futuro.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2933,100:111827&height=120&section=footer"/>
+
+### **Blandskron SpA**
+
+*Engineering · Design · AI — construido para el largo plazo.*
 
 </div>
-
-Si quieres, el siguiente paso es **hacerlo aún más cinematográfico** (timeline + visión).
-¿Vamos por esa versión? 👑
