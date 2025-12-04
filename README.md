@@ -1,22 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25&height=220&section=header&text=Blandskron%20SpA&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=BASTIÁN%20LANDSKRON%20%7C%20FOUNDER%20%26%20CEO&descAlign=50&descSize=20" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=220&section=header&text=Blandskron%20SpA&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=BASTIÁN%20LANDSKRON%20%7C%20FOUNDER%20%26%20CEO&descAlign=50&descSize=20" 
+    width="100%" 
+  />
 
   ### 🏛️ Software Architect · AI Engineer · UX/UI Strategist · Educator
 
   <a href="https://blandskron.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Arquitectura+s%C3%B1olida,+no+solo+c%C3%B3digo.;Dise%C3%B1o+que+escala+el+negocio.;IA+como+motor+productivo,+no+hype.;Construyendo+el+futuro+educativo+2030." />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Arquitectura+s%C3%B3lida%2C+no+solo+c%C3%B3digo.;Dise%C3%B1o+que+escala+el+negocio.;IA+como+motor+productivo%2C+no+hype.;Construyendo+el+futuro+educativo+2030." 
+    />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <a href="https://linkedin.com/in/blandskron">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://blandskron.com">
-    <img src="https://img.shields.io/badge/Web-Blandskron.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web-Blandskron.com-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:bastianlandskronfreelancer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -36,12 +41,12 @@
   <tr>
     <td width="60%" valign="top">
       <h3>👨‍💻 Sobre mí</h3>
-      <p>Soy <b>Bastián Landskron</b>, Founder & CEO de <b>Blandskron SpA</b>. Mi enfoque no es "escribir código", es <b>arquitectar soluciones</b>.</p>
+      <p>Soy <b>Bastián Landskron</b>, Founder & CEO de <b>Blandskron SpA</b>. Mi foco no es solo escribir código, es <b>arquitectar soluciones completas</b>.</p>
       <p>Opero en la intersección de tres mundos:</p>
       <ul>
-        <li><b>Ingeniería Robusta:</b> Sistemas distribuidos, seguros y de alta concurrencia.</li>
-        <li><b>Diseño de Producto:</b> UX que convierte y retiene.</li>
-        <li><b>Negocio & Educación:</b> Traducir tecnología compleja en valor tangible.</li>
+        <li><b>Ingeniería robusta:</b> sistemas distribuidos, seguros y mantenibles.</li>
+        <li><b>Diseño de producto:</b> UX/UI que convierte, retiene y comunica valor.</li>
+        <li><b>Negocio & educación:</b> traducir tecnología compleja en impacto real.</li>
       </ul>
       <br/>
       <b>🔭 Foco actual (2026):</b> Plataformas educativas de próxima generación impulsadas por IA contextual.
@@ -50,8 +55,8 @@
       <h3>📈 Trayectoria</h3>
       <code>2020</code> <b>Full Stack & UX</b> (Freelance)<br/>
       <code>2022</code> <b>Backend Architect</b> (Microservicios)<br/>
-      <code>2023</code> <b>Tech Educator</b> (Python Expert)<br/>
-      <code>2024</code> <b>AI Engineer</b> (LLMs Integration)<br/>
+      <code>2023</code> <b>Tech Educator</b> (Python · Full Stack)<br/>
+      <code>2024</code> <b>AI Engineer</b> (LLMs · Integración IA)<br/>
       <code>2025</code> <b>CEO @ Blandskron SpA</b><br/>
       <code>2026</code> 🚀 <b>Scaling EdTech Products</b>
     </td>
@@ -60,108 +65,142 @@
 
 ---
 
-## 🏗️ Modelo Mental de Arquitectura
-*Mi framework de decisión técnica para productos escalables:*
+## 🏗️ Modelo Mental de Arquitectura  
+*Mi marco de decisión técnica para productos escalables:*
 
 ```mermaid
 graph TD
-    User((🧑‍💻 Usuario)) -->|UX/UI Experience| Client
+    User((🧑‍💻 Usuario)) -->|Experiencia| Client
+
     subgraph "Capas de Abstracción - Blandskron SpA"
-        Client[💻 Frontend & Apps] -->|REST / GQL| Gateway{🛡️ API Gateway}
-        Gateway -->|Auth & Routing| Core[🧠 Business Logic / Services]
+        Client[💻 Frontend & Apps\nAngular · React · Mobile] -->|REST / GQL| Gateway{🛡️ API Gateway}
+        Gateway -->|Auth · Routing| Core[🧠 Business Logic / Services]
         Core -->|Orquestación| AI[🤖 AI Agents & Context]
-        Core -->|Persistencia| Data[(🗄️ Databases & Cache)]
+        Core -->|Persistencia| Data[(🗄️ Databases · Cache · Search)]
     end
-    style User fill:#fff,stroke:#333,stroke-width:2px
-    style Gateway fill:#f9f,stroke:#333,stroke-width:2px
-    style AI fill:#bbf,stroke:#333,stroke-width:2px
+
+    style User fill:#ffffff,stroke:#4C1D95,stroke-width:2px
+    style Gateway fill:#C4B5FD,stroke:#4C1D95,stroke-width:1px
+    style Core fill:#A855F7,stroke:#4C1D95,stroke-width:1px,color:#ffffff
+    style AI fill:#DDD6FE,stroke:#4C1D95,stroke-width:1px
+    style Data fill:#4C1D95,stroke:#2E1065,stroke-width:1px,color:#ffffff
 ````
 
------
+---
 
 ## 🧰 Arsenal Tecnológico
 
 ### ☁️ Backend & Core Engineering
 
-\<div align="left"\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring\_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite"/\>
-\</div\>
+<div align="left">
 
-### 🎨 Frontend & Mobile Experience
+<img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-9333EA?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-10B981?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-4C1D95?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-22C55E?style=for-the-badge&logo=spring-boot&logoColor=white" />
 
-\<div align="left"\>
-\<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white"/\>
-\<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/React\_Native-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB"/\>
-\<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white"/\>
-\</div\>
+</div>
 
-### 🧠 AI & Data Infrastructure
+---
 
-\<div align="left"\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenAI\_API-412991%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure\_Cloud-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite"/\>
-\</div\>
+### 🎨 Frontend, Mobile & UX/UI
 
------
+<div align="left">
+
+<img src="https://img.shields.io/badge/TypeScript-6366F1?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DC2626?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-1E3A8A?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-B45309?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+
+</div>
+
+---
+
+### 🧠 AI, Data & Cloud
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/OpenAI_API-4C1D95?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4338CA?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-991B1B?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-7C3AED?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-4F46E5?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Cloud-3B82F6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+</div>
+
+---
 
 ## 📦 Proyectos & Casos de Estudio
 
-| 🔐 Seguridad | 📂 Cloud Docs | 🎓 EdTech |
-|:---:|:---:|:---:|
-| **Sistema Auth Distribuido** | **Gestor Documental** | **Curriculums Full Stack** |
-| JWT + RSA · Hexagonal | Azure Blob · Streaming | Metodología Bootcamp |
-| *Seguridad Bancaria* | *Alta Disponibilidad* | *Empleabilidad Real* |
-| `Java` `Spring` | `Python` `FastAPI` | `Mentoring` `Design` |
+|   🔐 Seguridad Distribuida   |   📂 Documentos en la Nube   |     🎓 Educación & Formación    |
+| :--------------------------: | :--------------------------: | :-----------------------------: |
+| **Sistema Auth Distribuido** |  **Gestor Documental Cloud** | **Currículums Full Stack & UX** |
+|     JWT + RSA · Hexagonal    | Azure Blob · Streaming · SSE |    Bootcamp · Portafolio real   |
+|   Control de sesión central  |      Alta disponibilidad     |      Enfoque empleabilidad      |
+|      `FastAPI` `Spring`      |        `Python` `Java`       |    `Mentoring` `Arquitectura`   |
 
------
+---
 
 ## 📊 Métricas de Foco
 
 *Distribución de mi tiempo y energía cognitiva:*
 
 ```text
-Arquitectura Backend    ████████████████████ 95%
-Diseño de Producto (UX) ████████████████░░░░ 80%
-Integración de IA       ████████████████░░░░ 75%
-Frontend Moderno        ██████████████░░░░░░ 70%
-DevOps & Cloud Security ████████████░░░░░░░░ 60%
+Arquitectura Backend     ████████████████████ 95%
+Diseño de Producto (UX)  ████████████████░░░░ 80%
+Integración de IA        ████████████████░░░░ 75%
+Frontend Moderno         ██████████████░░░░░░ 70%
+DevOps & Cloud Security  ████████████░░░░░░░░ 60%
+Mentoría & Educación     █████████████░░░░░░░ 65%
 ```
 
------
+---
 
 ## 🌍 Capacidad Multilingüe
 
-*La comunicación es la habilidad técnica más importante.*
+*La comunicación clara también es una skill técnica.*
 
-\<table\>
-\<tr\>
-\<td align="center"\>🇪🇸<br>\<b\>Español\</b\><br>Nativo\</td\>
-\<td align="center"\>🇬🇧<br>\<b\>Inglés\</b\><br>Profesional (C1)\</td\>
-\<td align="center"\>🇫🇷<br>\<b\>Francés\</b\><br>Intermedio (B2)\</td\>
-\<td align="center"\>🇭🇹<br>\<b\>Criollo Haitiano\</b\><br>Profesional\</td\>
-\</tr\>
-\</table\>
+<table>
+  <tr>
+    <td align="center">🇪🇸<br/><b>Español</b><br/>Nativo</td>
+    <td align="center">🇬🇧<br/><b>Inglés</b><br/>Profesional</td>
+    <td align="center">🇫🇷<br/><b>Francés</b><br/>Intermedio</td>
+    <td align="center">🇭🇹<br/><b>Criollo Haitiano</b><br/>Profesional</td>
+  </tr>
+</table>
 
------
+---
 
-\<div align="center"\>
-<br>
-\<h3\>🏆 Certificaciones Clave\</h3\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Generative\_AI-Professional-gold%3Fstyle%3Dflat-square"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scrum\_Master-Certified-blue%3Fstyle%3Dflat-square"/\>
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Prompt\_Engineering-Expert-purple%3Fstyle%3Dflat-square"/\>
+<div align="center">
+  <h3>🏆 Certificaciones Clave</h3>
 
-<br><br>
+  <img src="https://img.shields.io/badge/Generative_AI-Professional-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum_Master-Certified-7C3AED?style=flat-square&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum_Developer-Certified-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Foundation-A855F7?style=flat-square" />
 
-\<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D25,2,2,0%26height%3D100%26section%3Dfooter%26text%3DBLANDSKRON%2520SpA%26fontSize%3D25%26fontColor%3Dffffff%26animation%3DfadeIn" width="100%"/\>
+</div>
 
-\<p\>\<i\>© 2026 Blandskron SpA. All rights reserved. Architecting the future.\</i\>\</p\>
-\</div\>
+---
+
+## 🤝 Conecta
+
+* 🌐 Web: **[https://blandskron.com](https://blandskron.com)**
+* 💼 LinkedIn: **[https://linkedin.com/in/blandskron](https://linkedin.com/in/blandskron)**
+* 📩 Email: **[bastianlandskronfreelancer@gmail.com](mailto:bastianlandskronfreelancer@gmail.com)**
+
+---
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4C1D95&height=100&section=footer&text=Blandskron%20SpA&fontSize=24&fontColor=ffffff&animation=fadeIn" 
+    width="100%" 
+  />
+
+  <p><i>© 2026 Blandskron SpA — Engineering · Design · AI · Education.</i></p>
+</div>
