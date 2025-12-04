@@ -1,8 +1,15 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=220&section=header&text=Blandskron%20SpA&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=BASTIÁN%20LANDSKRON%20%7C%20FOUNDER%20%26%20CEO&descAlign=50&descSize=20" 
-    width="100%" 
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4C1D95,100:7C3AED&text=Blandskron%20SpA&fontSize=52&fontColor=ffffff&animation=fadeIn"
+    width="100%"
   />
+  <div align="center">
+
+    ### BASTIAN LANDSKRON  
+    **Founder & CEO — Blandskron SpA**
+    
+  </div>
+
 
   ### 🏛️ Software Architect · AI Engineer · UX/UI Strategist · Educator
 
