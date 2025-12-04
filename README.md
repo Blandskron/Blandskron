@@ -3,13 +3,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4C1D95,100:7C3AED&text=Blandskron%20SpA&fontSize=52&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
-  <div align="center">
-
-    ### BASTIAN LANDSKRON  
-    **Founder & CEO — Blandskron SpA**
-    
-  </div>
-
 
   ### 🏛️ Software Architect · AI Engineer · UX/UI Strategist · Educator
 
