@@ -221,19 +221,11 @@ Tecnología al servicio del aprendizaje real
 
 ## 📊 Actividad
 
-## 📊 Actividad
-
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=tokyonight"
-    alt="Bastián's GitHub stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=tokyonight"
-    alt="Top languages"
-  />
+![Profile views](https://komarev.com/ghpvc/?username=blandskron&color=blueviolet&style=flat-square)
+![Repos](https://img.shields.io/badge/Public%20Repos-XX-%237159c1?style=flat-square&logo=github)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%2B%20IA-%2300b894?style=flat-square)
 
 </div>
 
