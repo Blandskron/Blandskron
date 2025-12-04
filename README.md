@@ -2,13 +2,12 @@
 
 <!-- HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2933,100:111827&height=190&section=header&text=BASTIÁN%20LANDSKRON&fontSize=38&fontColor=E5E7EB&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2933,100:111827&height=180&section=header&text=BASTIÁN%20LANDSKRON&fontSize=36&fontColor=E5E7EB&animation=fadeIn" />
 
 ### Founder & CEO — **Blandskron SpA**
-
 #### Software Architect · AI Builder · UX/UI Designer · Tech Educator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=600&color=7AA2F7&center=true&vCenter=true&width=760&lines=No+construyo+apps.;Dise%C3%B1o+sistemas+que+escalan.;Ingenier%C3%ADa+%2B+Dise%C3%B1o+%2B+IA.;Productos+listos+para+2030." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2600&pause=700&color=7AA2F7&center=true&vCenter=true&width=720&lines=Arquitectura+antes+que+frameworks.;Dise%C3%B1o+que+escala.;IA+integrada%2C+no+decorativa.;Productos+pensados+para+2030." />
 
 </div>
 
@@ -16,32 +15,31 @@
 
 ## 🧭 Manifiesto
 
-> **La tecnología sin diseño no escala.
-> El diseño sin ingeniería no sobrevive.
-> La IA sin arquitectura es solo ruido.**
+> **La tecnología sin diseño no escala.**  
+> **El diseño sin ingeniería no sobrevive.**  
+> **La IA sin arquitectura es solo ruido.**
 
 ---
 
-## 🧠 Quién soy
+## 🧠 Perfil Profesional
 
 <table>
 <tr>
-<td width="45%">
+<td width="48%">
 
-Soy **Bastián Landskron**, fundador de **Blandskron SpA**, arquitecto de software, diseñador UX/UI y educador tecnológico.
+Soy **Bastián Landskron**, **fundador de Blandskron SpA**, arquitecto de software, diseñador UX/UI y educador tecnológico.
 
-Diseño **productos digitales, plataformas educativas y arquitecturas de IA** donde negocio, experiencia de usuario y sistemas robustos trabajan juntos.
+Trabajo en la intersección entre **ingeniería, diseño y negocio**, construyendo sistemas y productos digitales **seguros, escalables y sostenibles**.
 
 </td>
-<td width="55%">
+<td width="52%">
 
-### Lo que hago hoy
-
-* Diseño plataformas escalables
-* Construyo microservicios seguros
-* Integro IA como parte del sistema
-* Diseño experiencia y producto
-* Formo desarrolladores con mentalidad de arquitectura
+### En qué me enfoco hoy
+- Arquitectura de sistemas backend
+- Microservicios y seguridad
+- UX/UI orientado a producto
+- IA aplicada a contextos reales
+- Formación técnica profesional
 
 </td>
 </tr>
@@ -49,39 +47,39 @@ Diseño **productos digitales, plataformas educativas y arquitecturas de IA** do
 
 ---
 
-## ⏱️ Timeline Profesional
+## ⏱️ Evolución Profesional
 
-```
-2020 ─── Desarrollo Full Stack & UX freelance
-2022 ─── Arquitecturas backend & microservicios
-2023 ─── Docencia profesional (Python, Full Stack)
-2024 ─── IA aplicada en sistemas reales
-2025 ─── Fundador de Blandskron SpA
-2026 ─── Plataformas educativas + IA escalable
-```
+```text
+2020 ── Desarrollo Full Stack & UX (freelance)
+2022 ── Arquitectura backend y microservicios
+2023 ── Docencia profesional (Python · Full Stack)
+2024 ── IA aplicada en sistemas productivos
+2025 ── Founder & CEO — Blandskron SpA
+2026 ── Plataformas educativas + IA escalable
+````
 
 ---
 
-## 🏗️ Arquitectura Mental (ASCII)
+## 🏗️ Modelo Mental de Arquitectura
 
-```
+```text
 ┌────────────────────────────┐
-│        Producto            │
-│  UX · UI · Diseño Visual   │
-└─────────────┬──────────────┘
-              │
-┌─────────────▼──────────────┐
-│     Aplicación / Frontend  │
-│  Angular · React · Mobile  │
-└─────────────┬──────────────┘
-              │
-┌─────────────▼──────────────┐
-│     Servicios / Backend    │
-│  FastAPI · Django · Java   │
-└─────────────┬──────────────┘
-              │
-┌─────────────▼──────────────┐
-│     Infraestructura        │
+│         Producto           │
+│    UX · UI · Diseño        │
+└────────────┬───────────────┘
+             │
+┌────────────▼───────────────┐
+│      Frontend & Apps       │
+│   Angular · React · Mobile │
+└────────────┬───────────────┘
+             │
+┌────────────▼───────────────┐
+│    Servicios & Dominio     │
+│ FastAPI · Django · Java    │
+└────────────┬───────────────┘
+             │
+┌────────────▼───────────────┐
+│ Infraestructura & Datos    │
 │ DB · Cache · Search · IA   │
 └────────────────────────────┘
 ```
@@ -90,7 +88,7 @@ Diseño **productos digitales, plataformas educativas y arquitecturas de IA** do
 
 ## 🧰 Stack Integral
 
-### Lenguajes
+### 👨‍💻 Lenguajes
 
 <div align="center">
 
@@ -103,7 +101,7 @@ Diseño **productos digitales, plataformas educativas y arquitecturas de IA** do
 
 ---
 
-### Frameworks & Arquitectura
+### 🧩 Frameworks & Arquitectura
 
 <div align="center">
 
@@ -116,7 +114,7 @@ Diseño **productos digitales, plataformas educativas y arquitecturas de IA** do
 
 </div>
 
-```
+```text
 Hexagonal Architecture
 Clean Architecture
 Microservices
@@ -136,22 +134,22 @@ Multi-tenant Systems
 
 </div>
 
-✅ UX Research
-✅ Sistemas de diseño
-✅ Prototipado low / high fidelity
-✅ Producto digital orientado a negocio
+* UX Research & análisis de usuarios
+* Sistemas de diseño
+* Prototipado low / high fidelity
+* Diseño orientado a negocio y escalabilidad
 
 ---
 
 ## 🧪 IA Integrada (no decorativa)
 
 <details>
-<summary><strong>Cómo uso IA</strong></summary>
+<summary><strong>Principios de uso</strong></summary>
 
 * LLMs como servicios desacoplados
-* Agentes con contexto persistente
+* Agentes con contexto y memoria mínima
 * IA como copiloto del sistema
-* Decisiones trazables y mantenibles
+* Decisiones explicables y trazables
 
 </details>
 
@@ -160,41 +158,53 @@ Multi-tenant Systems
 ## 📦 Proyectos Representativos
 
 <details>
-<summary>🔐 Plataforma de Autenticación Distribuida</summary>
+<summary><strong>🔐 Plataforma de Autenticación Distribuida</strong></summary>
 
 * JWT + RSA
 * Control centralizado de sesión
 * Arquitectura hexagonal
-* Multi-servicio
+* Multi-servicio / multi-cliente
 
 </details>
 
 <details>
-<summary>📂 Plataforma Documental Cloud</summary>
+<summary><strong>📂 Plataforma Documental Cloud</strong></summary>
 
-* Streaming
+* Streaming de archivos
 * Azure Blob Storage
 * Progreso en tiempo real (SSE)
 
 </details>
 
 <details>
-<summary>🎓 Programas Educativos Full Stack & UX</summary>
+<summary><strong>🎓 Programas Educativos Full Stack & UX</strong></summary>
 
-* Diseño curricular
-* Arquitectura real
-* Portafolio profesional
+* Diseño curricular profesional
+* Arquitectura real desde el día uno
+* Enfoque portafolio & empleabilidad
 
 </details>
 
 ---
 
+## 📊 Actividad & Foco (Visual)
+
+```text
+Arquitectura Backend   ██████████████████  90%
+UX/UI & Diseño         ████████████████░░  80%
+Frontend (Angular)     ███████████████░░░  75%
+IA Aplicada            ███████████████░░░  75%
+DevOps & Cloud         █████████████░░░░░  70%
+```
+
+---
+
 ## 🧬 Visión 2030
 
-```
+```text
 Plataformas educativas inteligentes
 IA personalizada por contexto
-Sistemas éticos, mantenibles y humanos
+Sistemas éticos y mantenibles
 Tecnología al servicio del aprendizaje real
 ```
 
@@ -219,18 +229,6 @@ Tecnología al servicio del aprendizaje real
 
 ---
 
-## 📊 Actividad
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=blandskron&color=blueviolet&style=flat-square)
-![Repos](https://img.shields.io/badge/Public%20Repos-XX-%237159c1?style=flat-square&logo=github)
-![Focus](https://img.shields.io/badge/Focus-Backend%20%2B%20IA-%2300b894?style=flat-square)
-
-</div>
-
----
-
 ## 🤝 Conecta
 
 🌐 [https://blandskron.com](https://blandskron.com)
@@ -241,10 +239,11 @@ Tecnología al servicio del aprendizaje real
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2933,100:111827&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2933,100:111827&height=100&section=footer"/>
 
 ### **Blandskron SpA**
 
 *Engineering · Design · AI — construido para el largo plazo.*
 
 </div>
+```
