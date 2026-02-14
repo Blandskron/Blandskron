@@ -1,87 +1,58 @@
 # Blandskron SpA
 
-**Arquitectura de Software · Inteligencia Artificial · Diseño Estratégico de Producto**
+Arquitectura de Software  
+Inteligencia Artificial Aplicada  
+Diseño Estratégico de Producto  
 
 ---
 
-## Quiénes Somos
+## Declaración
 
-**Blandskron SpA** es una firma especializada en arquitectura de software,
-ingeniería backend avanzada e integración estratégica de inteligencia artificial.
+Blandskron SpA diseña infraestructura digital preparada para el largo plazo.
 
-Diseñamos sistemas que escalan, productos que convierten
-y plataformas tecnológicas preparadas para el largo plazo.
+Construimos sistemas que escalan.
+Integramos inteligencia artificial como capacidad estructural.
+Diseñamos producto con intención estratégica.
 
-No construimos solo código.  
-Construimos infraestructura digital sostenible.
-
----
-
-## Enfoque Estratégico
-
-Nuestra práctica se basa en tres pilares:
-
-### 1. Arquitectura Robusta
-- Sistemas distribuidos
-- Microservicios y diseño hexagonal
-- Seguridad y control de sesión centralizado
-- Modelado de datos escalable
-
-### 2. Producto y Experiencia
-- Diseño UX/UI orientado a conversión
-- Sistemas de diseño coherentes
-- Interfaces que comunican valor
-
-### 3. Inteligencia Artificial Aplicada
-- Integración de LLMs en productos reales
-- Agentes con contexto persistente
-- Automatización productiva basada en IA
+No seguimos tendencias.
+Construimos fundamentos.
 
 ---
 
-## Stack Tecnológico
+## Áreas de Especialización
 
-### Backend & Core
-Python · Django · FastAPI · Java · Spring Boot  
-PostgreSQL · Redis · Elasticsearch
-
-### Frontend & Experiencia
-Angular · React · React Native · TypeScript  
-Figma · Sistemas de diseño escalables
-
-### Infraestructura
-Docker · Azure Cloud · Arquitecturas híbridas  
-API Gateway · Seguridad basada en JWT + RSA
+Arquitectura Backend  
+Sistemas Distribuidos  
+Integración de LLMs en productos reales  
+Diseño UX/UI orientado a negocio  
+Infraestructura Cloud segura  
 
 ---
 
-## Casos de Aplicación
+## Principios
 
-- Plataformas educativas impulsadas por IA
-- Sistemas de autenticación distribuida
-- Gestores documentales en la nube
-- Arquitecturas multi-tenant empresariales
+Simplicidad estructural  
+Escalabilidad progresiva  
+Seguridad por diseño  
+IA como ventaja competitiva  
+Tecnología al servicio del modelo de negocio  
 
 ---
 
 ## Dirección
 
-**Bastián Landskron**  
-Founder & CEO – Blandskron SpA  
+Bastián Landskron  
+Founder & CEO  
 
-Arquitecto de software y estratega tecnológico,
-especializado en la intersección entre ingeniería,
-producto e inteligencia artificial aplicada.
+Arquitecto de software enfocado en la intersección entre ingeniería, producto e inteligencia artificial aplicada.
 
 ---
 
 ## Contacto
 
-🌐 https://blandskron.com  
-💼 https://linkedin.com/in/blandskron  
-📩 bastianlandskronfreelancer@gmail.com  
+https://blandskron.com  
+https://linkedin.com/in/blandskron  
 
 ---
 
-© 2026 Blandskron SpA  
-Engineering · Architecture · Artificial Intelligence
+© 2026 Blandskron SpA
