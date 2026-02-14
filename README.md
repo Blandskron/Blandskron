@@ -1,41 +1,42 @@
 # Blandskron SpA
 
-Arquitectura de Software  
-Inteligencia Artificial Aplicada  
-Diseño Estratégico de Producto  
+Arquitectura · Inteligencia Artificial · Transformación Digital
 
 ---
 
-## Declaración
+## Visión
 
-Blandskron SpA diseña infraestructura digital preparada para el largo plazo.
+Blandskron SpA diseña y construye sistemas tecnológicos
+que combinan ingeniería sólida, inteligencia artificial aplicada
+y estrategia de negocio.
 
-Construimos sistemas que escalan.
-Integramos inteligencia artificial como capacidad estructural.
-Diseñamos producto con intención estratégica.
+Nuestro enfoque no es experimental.
+Es estructural.
 
-No seguimos tendencias.
-Construimos fundamentos.
-
----
-
-## Áreas de Especialización
-
-Arquitectura Backend  
-Sistemas Distribuidos  
-Integración de LLMs en productos reales  
-Diseño UX/UI orientado a negocio  
-Infraestructura Cloud segura  
+Cada decisión técnica responde a una visión de largo plazo.
 
 ---
 
-## Principios
+## Qué Hacemos
 
-Simplicidad estructural  
-Escalabilidad progresiva  
-Seguridad por diseño  
-IA como ventaja competitiva  
-Tecnología al servicio del modelo de negocio  
+Arquitectura de Software Empresarial  
+Diseño de Sistemas Escalables  
+Integración Estratégica de Inteligencia Artificial  
+Desarrollo Backend de Alta Complejidad  
+Diseño de Producto y Experiencia Digital  
+
+---
+
+## Cómo Pensamos
+
+La tecnología no es un fin.
+Es infraestructura para el crecimiento.
+
+La inteligencia artificial no es tendencia.
+Es capacidad productiva.
+
+El diseño no es estética.
+Es dirección estratégica.
 
 ---
 
@@ -44,15 +45,19 @@ Tecnología al servicio del modelo de negocio
 Bastián Landskron  
 Founder & CEO  
 
-Arquitecto de software enfocado en la intersección entre ingeniería, producto e inteligencia artificial aplicada.
+Arquitecto de software especializado en
+ingeniería backend avanzada,
+sistemas distribuidos
+e integración de IA en productos reales.
 
 ---
 
-## Contacto
+## Presencia
 
 https://blandskron.com  
 https://linkedin.com/in/blandskron  
 
 ---
 
-© 2026 Blandskron SpA
+© 2026 Blandskron SpA  
+Engineering for the long term.
