@@ -1,52 +1,47 @@
-# 🏛️ Blandskron SpA
+<div align="center">
+  <img src="https://img.shields.io/badge/Innovación%20tecnológica-8A2BE2?style=for-the-badge&logo=icloud&logoColor=white" alt="Innovación tecnológica" />
+</div>
 
-> **Arquitectura · Inteligencia Artificial · Transformación Digital**
-
-Blandskron SpA diseña y construye sistemas tecnológicos que combinan ingeniería sólida, inteligencia artificial aplicada y estrategia de negocio. Nuestro enfoque no es experimental; es **estructural**.
-
----
-
-### 🎯 Visión Estratégica
-Cada decisión técnica en Blandskron responde a una visión de largo plazo. Entendemos la tecnología como la infraestructura crítica para el crecimiento sostenido.
-
-- **IA como capacidad:** No es tendencia, es potencia productiva.
-- **Diseño como dirección:** No es estética, es estrategia funcional.
-- **Ingeniería de fondo:** Sistemas escalables y mantenibles.
-
----
-
-### 🛠️ Core Stack & Expertise
-A nivel de ingeniería, nos especializamos en soluciones de alta complejidad:
-
-![Backend](https://img.shields.io/badge/Backend-Python_|_Django_|_Node.js-white?style=flat-square&logoColor=black)
-![Cloud](https://img.shields.io/badge/Cloud-AWS_|_Sistemas_Distribuidos-white?style=flat-square&logoColor=black)
-![AI](https://img.shields.io/badge/AI-Applied_ML_|_LLMs_Integration-white?style=flat-square&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch-Software_Architecture-white?style=flat-square&logoColor=black)
-
-* **Arquitectura Empresarial:** Diseño de sistemas resilientes.
-* **IA Aplicada:** Integración estratégica en productos reales.
-* **Experiencia Digital:** UX/UI con enfoque en resultados de negocio.
-
----
-
-### 👤 Dirección
-**Bastián Landskron** *Founder & CEO*
-
-Especialista en ingeniería backend avanzada, sistemas distribuidos e integración de IA. Liderando la ejecución técnica y la visión de producto en Blandskron SpA.
-
----
-
-### 🌐 Presencia Digital
-
-[![Website](https://img.shields.io/badge/Website-blandskron.com-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blandskron.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blandskron)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/blandskron.dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-black?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56956460650)
-
----
+<h1 align="center">Tecnología y formación aplicada a <br/><span style="color: #A855F7;">empresas reales</span></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blandskron&color=black&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  <br>
-  <small>© 2026 Blandskron SpA — <i>Engineering for the long term.</i></small>
+  <strong>CEO & CTO | Arquitecto de Software & AI Integration | Licenciatura en Física (en curso)</strong>
 </p>
+
+<div align="center">
+  <a href="mailto:bastianlandskronfreelancer@gmail.com">
+    <img src="https://img.shields.io/badge/Solicitar%20Asesoría-9061FF?style=for-the-badge&logoColor=white" alt="Solicitar Asesoría" />
+  </a>
+  <a href="https://www.linkedin.com/in/blandskron">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+### 🌑 Perfil Profesional
+Soy Arquitecto de Software y AI Engineer con experiencia liderando equipos tecnológicos y diseñando arquitecturas escalables. Mi formación en **Licenciatura en Física** fortalece mi capacidad para modelar problemas complejos y construir soluciones eficientes desde un enfoque científico.
+
+### 🛠️ Especialización y Servicios
+| Área | Descripción |
+| :--- | :--- |
+| 🤖 **AI Integration** | Implementación de modelos productivos (OpenAI, LangChain, scikit-learn). |
+| 🏗️ **Arquitectura** | Microservicios, arquitecturas limpias y backend seguro con Python (FastAPI/Django). |
+| 🛡️ **Ciberseguridad** | Enfoque en DevSecOps y Hacking Ético en aplicativos web. |
+| 🎓 **Formación REUF** | Facilitador acreditado por SENCE para programas de talento digital. |
+
+---
+
+### 📚 Formación y Capacitación Destacada
+* **SENCE REUF:** Facilitador aprobado en Desarrollo Full Stack, Diseño UX/UI y Hacking Ético.
+* **Data Science:** Especialista en análisis exploratorio y visualización de datos.
+* **Mentoring:** Facilitador de bootcamps tecnológicos impactando a más de 90 estudiantes.
+
+### 🌐 Navegación
+[Blandskron.com](https://blandskron.com/) • [Proyectos](#) • [Servicios](#) • [Certificaciones](#) • [Contacto](#)
+
+<div align="right">
+  <a href="https://wa.me/56956460650">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
