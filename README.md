@@ -1,47 +1,55 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Innovación%20tecnológica-8A2BE2?style=for-the-badge&logo=icloud&logoColor=white" alt="Innovación tecnológica" />
-</div>
-
 <h1 align="center">Tecnología y formación aplicada a <br/><span style="color: #A855F7;">empresas reales</span></h1>
 
 <p align="center">
-  <strong>CEO & CTO | Arquitecto de Software & AI Integration | Licenciatura en Física (en curso)</strong>
+  <strong>CEO & CTO | Arquitecto de Software & AI Engineer | Formación en Física Aplicada al Modelado de Software</strong>
 </p>
 
-<div align="center">
-  <a href="mailto:bastianlandskronfreelancer@gmail.com">
-    <img src="https://img.shields.io/badge/Solicitar%20Asesoría-9061FF?style=for-the-badge&logoColor=white" alt="Solicitar Asesoría" />
-  </a>
-  <a href="https://www.linkedin.com/in/blandskron">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+## 🌑 Sobre Mí
+Arquitecto de Software e Ingeniero de Inteligencia Artificial con una sólida formación en **Licenciatura en Física**. Mi enfoque científico me permite modelar problemas complejos y construir soluciones robustas, escalables y eficientes. Lidero equipos tecnológicos y diseño arquitecturas limpias, siempre con una mentalidad de producto y un enfoque en el DevSecOps.
+
+Soy además un **facilitador acreditado por SENCE (REUF)**, con experiencia en la formación de talento digital en bootcamps de alto impacto.
 
 ---
 
-### 🌑 Perfil Profesional
-Soy Arquitecto de Software y AI Engineer con experiencia liderando equipos tecnológicos y diseñando arquitecturas escalables. Mi formación en **Licenciatura en Física** fortalece mi capacidad para modelar problemas complejos y construir soluciones eficientes desde un enfoque científico.
+## 🚀 Áreas de Impacto & Especialización
 
-### 🛠️ Especialización y Servicios
-| Área | Descripción |
+### 🤖 Inteligencia Artificial & Machine Learning
+- Diseño e implementación de modelos de IA en producción, utilizando herramientas como OpenAI API, LangChain, TensorFlow y scikit-learn.
+- Desarrollo de soluciones basadas en Procesamiento de Lenguaje Natural (NLP) y Computer Vision para automatización de procesos y mejora de productos.
+
+### 🏗️ Arquitectura de Software & Backend
+- Diseño y desarrollo de arquitecturas de microservicios y *Clean Architecture*.
+- Experiencia experta en Python (FastAPI, Django) para la creación de APIs RESTful seguras y escalables.
+- Implementación de buenas prácticas de ingeniería, *test-driven development* (TDD) y CI/CD.
+
+### 🎓 Formación & Mentoring (SENCE REUF Accredited)
+- Facilitador especializado en programas de talento digital.
+- Áreas de competencia acreditadas: **Desarrollo Full Stack**, **Diseño UX/UI**, **Hacking Ético**.
+- Mentoring a más de 90+ estudiantes en bootcamps tecnológicos, guiándolos en su inserción laboral.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+| Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| 🤖 **AI Integration** | Implementación de modelos productivos (OpenAI, LangChain, scikit-learn). |
-| 🏗️ **Arquitectura** | Microservicios, arquitecturas limpias y backend seguro con Python (FastAPI/Django). |
-| 🛡️ **Ciberseguridad** | Enfoque en DevSecOps y Hacking Ético en aplicativos web. |
-| 🎓 **Formación REUF** | Facilitador acreditado por SENCE para programas de talento digital. |
+| **Backend & Core** | Python, FastAPI, Django, Clean Architecture, Microservices |
+| **AI & Data Science** | TensorFlow, scikit-learn, LangChain, OpenAI, Pandas, NumPy |
+| **Frontend & UX/UI** | React, Next.js, TypeScript, Tailwind CSS, Material UI, UI/UX Design |
+| **DevOps & Cloud** | AWS, Google Cloud Platform (GCP), Docker, CI/CD, DevSecOps |
+| **Base de Datos & OT**| PostgreSQL, MySQL, Redis, SQL Server |
 
 ---
 
-### 📚 Formación y Capacitación Destacada
-* **SENCE REUF:** Facilitador aprobado en Desarrollo Full Stack, Diseño UX/UI y Hacking Ético.
-* **Data Science:** Especialista en análisis exploratorio y visualización de datos.
-* **Mentoring:** Facilitador de bootcamps tecnológicos impactando a más de 90 estudiantes.
+## 📊 Estadísticas de GitHub
 
-### 🌐 Navegación
-[Blandskron.com](https://blandskron.com/) • [Proyectos](#) • [Servicios](#) • [Certificaciones](#) • [Contacto](#)
-
-<div align="right">
-  <a href="https://wa.me/56956460650">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=aura&count_private=true" alt="Estadísticas de blandskron" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=aura" alt="Lenguajes más usados por blandskron" />
 </div>
+
+<p align="center">
+  <a href="https://wa.me/56956460650">
+    <img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contactar por WhatsApp" />
+  </a>
+</p>
