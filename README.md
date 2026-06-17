@@ -1,55 +1,123 @@
-<h1 align="center">Tecnología y formación aplicada a <br/><span style="color: #A855F7;">empresas reales</span></h1>
+```html
+<h1 align="center">
+Software Architecture · Artificial Intelligence · Scalable Systems
+</h1>
 
 <p align="center">
-  <strong>CEO & CTO | Arquitecto de Software & AI Engineer | Formación en Física Aplicada al Modelado de Software</strong>
+  <strong>CEO & CTO | Software Architect | Full Stack Engineer | AI Solutions Developer</strong>
 </p>
 
-## 🌑 Sobre Mí
-Arquitecto de Software e Ingeniero de Inteligencia Artificial con una sólida formación en **Licenciatura en Física**. Mi enfoque científico me permite modelar problemas complejos y construir soluciones robustas, escalables y eficientes. Lidero equipos tecnológicos y diseño arquitecturas limpias, siempre con una mentalidad de producto y un enfoque en el DevSecOps.
+<p align="center">
+Building production-ready software solutions through engineering, automation and applied artificial intelligence.
+</p>
+```
 
-Soy además un **facilitador acreditado por SENCE (REUF)**, con experiencia en la formación de talento digital en bootcamps de alto impacto.
+# Professional Summary
 
----
+Software Architect and Full Stack Engineer focused on designing scalable platforms, distributed systems and artificial intelligence solutions.
 
-## 🚀 Áreas de Impacto & Especialización
+My work combines software engineering, cloud infrastructure and product development to transform complex business problems into reliable technological solutions.
 
-### 🤖 Inteligencia Artificial & Machine Learning
-- Diseño e implementación de modelos de IA en producción, utilizando herramientas como OpenAI API, LangChain, TensorFlow y scikit-learn.
-- Desarrollo de soluciones basadas en Procesamiento de Lenguaje Natural (NLP) y Computer Vision para automatización de procesos y mejora de productos.
+I have experience leading technical initiatives, designing backend architectures, implementing AI-driven systems and building end-to-end digital products with a strong focus on scalability, maintainability and long-term value.
 
-### 🏗️ Arquitectura de Software & Backend
-- Diseño y desarrollo de arquitecturas de microservicios y *Clean Architecture*.
-- Experiencia experta en Python (FastAPI, Django) para la creación de APIs RESTful seguras y escalables.
-- Implementación de buenas prácticas de ingeniería, *test-driven development* (TDD) y CI/CD.
+Currently expanding my scientific foundation through studies in Applied Physics, integrating mathematical thinking, modeling and analytical approaches into software design.
 
-### 🎓 Formación & Mentoring (SENCE REUF Accredited)
-- Facilitador especializado en programas de talento digital.
-- Áreas de competencia acreditadas: **Desarrollo Full Stack**, **Diseño UX/UI**, **Hacking Ético**.
-- Mentoring a más de 90+ estudiantes en bootcamps tecnológicos, guiándolos en su inserción laboral.
+Additionally, I contribute to technology education as an accredited SENCE facilitator, supporting the development of new digital talent.
 
 ---
 
-## 🛠️ Stack Tecnológico
+# Core Expertise
 
-| Categoría | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Backend & Core** | Python, FastAPI, Django, Clean Architecture, Microservices |
-| **AI & Data Science** | TensorFlow, scikit-learn, LangChain, OpenAI, Pandas, NumPy |
-| **Frontend & UX/UI** | React, Next.js, TypeScript, Tailwind CSS, Material UI, UI/UX Design |
-| **DevOps & Cloud** | AWS, Google Cloud Platform (GCP), Docker, CI/CD, DevSecOps |
-| **Base de Datos & OT**| PostgreSQL, MySQL, Redis, SQL Server |
+## Software Architecture & Backend Engineering
+
+* Design of scalable backend systems and distributed architectures.
+* Microservices architecture and domain-oriented software design.
+* REST API development and enterprise integrations.
+* Authentication, authorization and multi-tenant platforms.
+* Software quality, maintainability and engineering standards.
+
+Technologies:
+
+Python · Django · FastAPI · Java · Spring Boot · REST APIs · Microservices · Clean Architecture
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Artificial Intelligence & Automation
+
+* Development of AI-powered business solutions.
+* Integration of Large Language Models into production environments.
+* Intelligent agents and workflow automation.
+* Retrieval systems and knowledge-based assistants.
+
+Technologies:
+
+OpenAI API · LangChain · RAG Systems · Vector Databases · Machine Learning · n8n
+
+---
+
+## Cloud Infrastructure & DevOps
+
+* Deployment and operation of production applications.
+* Containerized environments and cloud-native architectures.
+* Continuous integration and delivery workflows.
+
+Technologies:
+
+Docker · Kubernetes · AWS · Azure · Railway · CI/CD · Linux
+
+---
+
+## Frontend Engineering
+
+Development of modern interfaces focused on performance, usability and business requirements.
+
+Technologies:
+
+React · Angular · Next.js · TypeScript · Tailwind CSS
+
+---
+
+# Leadership & Education
+
+Founder and technical leader focused on creating digital products and scalable software solutions.
+
+SENCE accredited technology facilitator with experience training developers in:
+
+* Full Stack Development
+* Software Engineering Practices
+* UX/UI Fundamentals
+* Cybersecurity Fundamentals
+
+More than 90 students mentored through professional technology programs.
+
+---
+
+# Technology Stack
+
+| Area                    | Technologies                                           |
+| ----------------------- | ------------------------------------------------------ |
+| Backend                 | Python, Django, FastAPI, Java, Spring Boot             |
+| Architecture            | Microservices, Clean Architecture, Distributed Systems |
+| Artificial Intelligence | LLMs, RAG, AI Agents, Automation                       |
+| Frontend                | Angular, React, Next.js, TypeScript                    |
+| Cloud & DevOps          | Docker, Kubernetes, AWS, Azure, CI/CD                  |
+| Databases               | PostgreSQL, SQL Server, MySQL, Redis, Vector DB        |
+
+---
+
+# GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=aura&count_private=true" alt="Estadísticas de blandskron" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=aura" alt="Lenguajes más usados por blandskron" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=blandskron&show_icons=true&theme=github_dark&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blandskron&layout=compact&theme=github_dark" />
+
 </div>
 
+---
+
 <p align="center">
-  <a href="https://wa.me/56956460650">
-    <img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contactar por WhatsApp" />
-  </a>
+Software Engineering · Artificial Intelligence · Product Development
 </p>
+```
