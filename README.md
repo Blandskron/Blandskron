@@ -1,4 +1,3 @@
-```html
 <h1 align="center">
 Software Architecture · Artificial Intelligence · Scalable Systems
 </h1>
@@ -10,7 +9,6 @@ Software Architecture · Artificial Intelligence · Scalable Systems
 <p align="center">
 Building production-ready software solutions through engineering, automation and applied artificial intelligence.
 </p>
-```
 
 # Professional Summary
 
