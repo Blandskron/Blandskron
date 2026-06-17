@@ -118,4 +118,3 @@ More than 90 students mentored through professional technology programs.
 <p align="center">
 Software Engineering · Artificial Intelligence · Product Development
 </p>
-```
